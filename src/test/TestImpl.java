@@ -7,8 +7,8 @@ public class TestImpl implements Test  {
         System.out.println(TestImpl.a);
 
         
-        
-        			
+        we
+        			qq
         int a = 1;
     }
 }
